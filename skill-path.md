@@ -10,7 +10,9 @@
 
 ![Front-End](https://camo.githubusercontent.com/97fb789b1d444496c002e3af520656720df4f7a7/68747470733a2f2f692e696d6775722e636f6d2f426551774c74472e706e67)
 
-### 3. 核心知识：HTML(5),CSS(3),JavaScript,jQuery。ES6也是核心知识点。React还仅仅是一个框架。
+### 3. 核心知识：HTML(5),CSS(3),JavaScript,jQuery
+
+ES6也是核心知识点。React还仅仅是一个框架。
 
 ### 4. 需要的技能：
 * 翻墙
@@ -50,7 +52,9 @@ BAT的前端技术博客，京东、携程、美团等前端博客或者知乎�
 
 ### 8.前端学习建议
 **自我学习，没有捷径**
+
 **自我学习，没有捷径**
+
 **自我学习，没有捷径**
 
 1. 看书或者视频。买经典书、udacity或者Coursera，再者国内的慕课网。
